@@ -10,7 +10,7 @@
 
 А так же будем измерять *AUC-ROC* и сравнивать её значение с *F1*-мерой.
 
-   *© Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)* 
+   
 ## Стэк:
 `Pandas`
 `Matplotlib`
